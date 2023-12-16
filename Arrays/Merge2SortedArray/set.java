@@ -26,6 +26,8 @@ public class set {
             System.out.print(ans + " ");
         }
 
+        sc.close();
+
 
         
     }
